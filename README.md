@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vittiya-Mate (Personal Finance Management Application)
 
 ## Setup Instructions
@@ -80,3 +81,6 @@ To run only the frontend:
 ```bash
 npm run client
 ``` 
+=======
+# Personal-finance-tracker
+>>>>>>> 0065f7a8e4a397583234ab6d7753ce3821131f56

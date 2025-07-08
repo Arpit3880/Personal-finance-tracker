@@ -1,0 +1,19 @@
+node_modules/
+.env
+.DS_Store
+*.log
+# Ignore build output
+/dist
+/build
+# Ignore local environment settings
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+# Ignore coverage reports
+coverage/
+# Ignore IDE files
+.vscode/
+.idea/
+# Ignore OS files
+Thumbs.db
